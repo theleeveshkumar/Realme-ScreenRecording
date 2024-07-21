@@ -94,11 +94,11 @@ Contributions are welcome! To contribute:
 
 ## License
 
-RealMe is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+RealMe is licensed under the MIT License. 
 
 ## Contact
 
-For questions or feedback, contact [Your Name](mailto:your-email@example.com).
+For questions or feedback, contact [Leevesh Kumar](mailto:leeveshkumar14@gmail.com).
 
 ## Acknowledgements
 
